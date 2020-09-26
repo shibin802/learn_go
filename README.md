@@ -2,6 +2,10 @@
 
 开始练习go语言
 
-test1
+test5
 
 test2
+
+test3
+
+test4
